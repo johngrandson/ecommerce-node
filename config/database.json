@@ -1,0 +1,4 @@
+{
+  "dbTest": "mongodb+srv://admin:admin@cluster0.z6yta.mongodb.net/ecommerce-node?retryWrites=true&w=majority",
+  "dbProduction": "mongodb+srv://admin:admin@cluster0.z6yta.mongodb.net/ecommerce-node?retryWrites=true&w=majority"
+}
